@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+langchain
+langgraph
+faiss-cpu
+rank_bm25
+sentence-transformers
+requests
+python-dotenv
